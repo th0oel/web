@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>특수문자 표현</title>
+  </head>
+  <body>
+    <header>
+      <center>
+        <h1>&lt; HTML 특수문자 &gt;</h1>
+      </center>
+    </header>
+    <section>
+      <article>
+        <pre>
+        ### 풀스택 개발자를 위한 웹 프로그래밍 ###
+        <p></p>
+        HTML5 ; CSS3 &#38 JavaScript &#38; JQuery
+        <가격 : 35,000원>
+        </pre>
+
+        <p>
+            수식 표현 : X<sub>1</sub>+X<sub>2</sub><sup>2</sup>+A<sup>3</sup>=100
+        </p>
+
+    </article>
+    </section>
+    <section>
+        <article>
+            <p><b>텍스트 볼드 처리</b></p>
+            <p><strong>텍스트 중요 표시</strong></p>
+            <p><i>텍스트 강조 표시</i></p>
+        </article>
+    </section>
+    <hr size="5" align="left" noshade = "noshade" width="50%">
+    <footer>
+        <small>
+            &nbsp;&nbsp; &copy; 한양여자대학교 &nbsp;&nbsp;
+            &nbsp;&nbsp; &reg; 스마트IT
+        </small>
+    </footer>
+  </body>
+</html>
